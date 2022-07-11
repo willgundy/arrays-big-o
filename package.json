@@ -1,0 +1,20 @@
+{
+  "name": "spotlight-dsna-arrays-big-o",
+  "version": "1.0.0",
+  "description": "DS&A: Node Based Data Structures ===",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alchemycodelab/spotlight-dsna-arrays-big-o.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
